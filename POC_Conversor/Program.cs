@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using System.Xml.Linq;
-using Microsoft.VisualBasic.FileIO; // Requer referência a Microsoft.VisualBasic
+using Microsoft.VisualBasic.FileIO; 
 
 class Program
 {
