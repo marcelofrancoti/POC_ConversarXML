@@ -1,0 +1,14 @@
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\bin\Debug\net8.0\POC_Conversor.exe
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\bin\Debug\net8.0\POC_Conversor.deps.json
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\bin\Debug\net8.0\POC_Conversor.runtimeconfig.json
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\bin\Debug\net8.0\POC_Conversor.dll
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\bin\Debug\net8.0\POC_Conversor.pdb
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.AssemblyInfoInputs.cache
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.AssemblyInfo.cs
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.csproj.CoreCompileInputs.cache
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.dll
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\refint\POC_Conversor.dll
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.pdb
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\POC_Conversor.genruntimeconfig.cache
+C:\Users\redbu\source\repos\POC_Conversor\POC_Conversor\obj\Debug\net8.0\ref\POC_Conversor.dll
